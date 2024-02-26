@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The following project is a object-oriented Dungeon-Style video game back end. It is designed to offer players an immersive experience as they navigate through a series of dungeons, overcoming various challenges to achieve specific goals. Developed as a collaborative pair project, I had the privilege of leading the team in management, refactoring and implementation of a previously incomplete project. Together, we refactored and expanded the provided implementation to create an enjoyable, effective video game back-end with a scalable and maintainable codebase. 
+The following project is a object-oriented Dungeon-Style video game back end. It is designed to offer players an immersive experience as they navigate through a series of dungeons, overcoming various challenges to achieve specific goals. Developed as a collaborative pair project, I had the privilege of leading the team in management, refactoring and implementation of a previously incomplete project. Together, we refactored and expanded the provided implementation to create an enjoyable, effective video game back-end with a scalable and maintainable codebase.
 
 ### Technologies Used
 
@@ -22,33 +22,19 @@ The following project is a object-oriented Dungeon-Style video game back end. It
 
 Our development approach extensively applied the core principles of Object-Oriented Programming (OOP) — Encapsulation, Inheritance, Polymorphism, and Abstraction. These principles, coupled with strategic design patterns like Observer, Strategy, and Factory, facilitated a robust, maintainable, and scalable application architecture. My leadership in applying these principles ensured the project’s technical sophistication and success.
 
-### Challenges Overcome
+- **Challenges Overcome:** Under my leadership, we innovatively addressed and resolved several significant challenges, including:
 
-Under my leadership, we innovatively addressed and resolved several significant challenges, including:
+- **Game Logic:** Developing a robust game logic to manage the complex dynamics and interactions within the game, ensuring coherent and engaging gameplay.
 
-#### Game Logic
+- **Legacy Code Integration:** Under my leadership, we tackled the daunting task of integrating new features with legacy systems. This required a deep dive into outdated code, deciphering legacy systems with minimal documentation, and carefully incorporating modern solutions without disrupting the existing functionality.
 
-Developing a robust game logic to manage the complex dynamics and interactions within the game, ensuring coherent and engaging gameplay.
+- **Data Migration and Integrity** A major challenge was ensuring data integrity during the extensive process of migrating data from the old system's schema to the newly refactored backend. We designed and executed complex data migration strategies, ensuring that every piece of data was accurately transferred without loss, maintaining the utmost data integrity even in large datasets.
 
-#### Legacy Code Integration
+- **Performance Optimization:** We identified and addressed numerous performance bottlenecks inherent in the poorly designed original backend. By optimizing database queries, revising data storage solutions, and implementing efficient caching strategies, we significantly improved the application's response times and overall performance.
 
-Under my leadership, we tackled the daunting task of integrating new features with legacy systems. This required a deep dive into outdated code, deciphering legacy systems with minimal documentation, and carefully incorporating modern solutions without disrupting the existing functionality.
+- **Scalability Enhancements:** The original backend was not built to scale efficiently. We overcame this challenge by redesigning certain components and services, adopting a microservices architecture where feasible, and optimizing resource management to ensure that the application could handle increased loads and user demand gracefully.
 
-#### Data Migration and Integrity
-
-A major challenge was ensuring data integrity during the extensive process of migrating data from the old system's schema to the newly refactored backend. We designed and executed complex data migration strategies, ensuring that every piece of data was accurately transferred without loss, maintaining the utmost data integrity even in large datasets.
-
-#### Performance Optimization
-
-We identified and addressed numerous performance bottlenecks inherent in the poorly designed original backend. By optimizing database queries, revising data storage solutions, and implementing efficient caching strategies, we significantly improved the application's response times and overall performance.
-
-#### Scalability Enhancements
-
-The original backend was not built to scale efficiently. We overcame this challenge by redesigning certain components and services, adopting a microservices architecture where feasible, and optimizing resource management to ensure that the application could handle increased loads and user demand gracefully.
-
-#### Testing and Quality Assurance
-
-Ensuring that the refactored backend maintained high quality and did not introduce new bugs was paramount. We established a comprehensive testing framework, incorporating unit, integration, and end-to-end tests, to rigorously validate the functionality and performance of the refactored system. This not only ensured a seamless transition but also laid a strong foundation for future development.
+- **Testing and Quality Assurance:** Ensuring that the refactored backend maintained high quality and did not introduce new bugs was paramount. We established a comprehensive testing framework, incorporating unit, integration, and end-to-end tests, to rigorously validate the functionality and performance of the refactored system. This not only ensured a seamless transition but also laid a strong foundation for future development.
 
 ## Outcome
 

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The following project is a object-oriented Dungeon-Style video game back end. It is designed to offer players an immersive experience as they navigate through a series of dungeons, overcoming various challenges to achieve specific goals. Developed as a collaborative pair project, I had the privilege of leading the team in management, refactoring and implementation of an incomplete projec. Together, we guided the project to success with a mastery over Java class libraries, and effective application of design patterns to create a scalable and maintainable codebase.
+The following project is a object-oriented Dungeon-Style video game back end. It is designed to offer players an immersive experience as they navigate through a series of dungeons, overcoming various challenges to achieve specific goals. Developed as a collaborative pair project, I had the privilege of leading the team in management, refactoring and implementation of a previously incomplete project. Together, we refactored and expanded the provided implementation to create an enjoyable, effective video game back-end with a scalable and maintainable codebase. 
 
 ### Technologies Used
 
